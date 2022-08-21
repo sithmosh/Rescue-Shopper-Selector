@@ -1,0 +1,14 @@
+It needs to store a list of all TMS, then have the ability to create a new smaller list of currently clocked in TMs from
+the larger stored list. From that new smaller list it needs to generate a randomly selected TM to perform a task, 
+while prioritizing TMs who have done the task the LEAST recently.
+
+1-create an array of all TMs(objects).
+2-create a function to randomly select an object from the array.
+3-display the objects on a website.
+4-display the selection on a website.
+6-create a button to activate the function.
+7-create a new array to select people from the full list of all TMs(move into new array).
+8-change the random selection function to only pull from the new smaller list.
+9-create a new array(?) that stores all of the TMs as a list where the most recently selected TM moves to the bottom.
+10-change the website selection function to pull from the new list/array.
+11-change the random selector function to prioritize the top of the list.
